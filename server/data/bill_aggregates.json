@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-08T18:43:14Z",
+    "source_file": "data\\bill_store.json",
+    "total_records": 0,
+    "contains_hourly_usage": false
+  },
+  "aggregates": {
+    "daily_usage_kwh": [],
+    "weekly_usage_kwh": [],
+    "monthly_usage_kwh": [],
+    "average_consumption_per_hour_kwh": [],
+    "peak_hours": [],
+    "low_usage_periods": []
+  }
+}
